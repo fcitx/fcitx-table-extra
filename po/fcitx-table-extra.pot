@@ -53,6 +53,10 @@ msgstr ""
 msgid "EasyBig"
 msgstr ""
 
+#: tables/fr.conf.in:3
+msgid "French"
+msgstr ""
+
 #: tables/jyutping.conf.in:3
 msgid "Jyutping"
 msgstr ""

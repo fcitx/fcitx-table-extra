@@ -1,7 +1,8 @@
 set(ICON48
-  fcitx-cantonese.png fcitx-cantonhk.png fcitx-jyutping.png fcitx-quick3.png
-  fcitx-quick5.png fcitx-quick-classic.png fcitx-scj6.png fcitx-stroke5.png
-  fcitx-wu.png)
+  fcitx-cantonese.png fcitx-cantonhk.png fcitx-fr.png fcitx-jyutping.png 
+  fcitx-quick3.png fcitx-quick5.png fcitx-quick-classic.png fcitx-scj6.png
+  fcitx-stroke5.png fcitx-wu.png)
+
 set(ICON64
   fcitx-t9.png fcitx-boshiamy.png fcitx-easy-big.png fcitx-array30.png
   fcitx-array30-big.png fcitx-zhengma.png)
