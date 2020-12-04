@@ -5,13 +5,15 @@
 # Translators:
 # shirou - しろう <shirou.faw@gmail.com>, 2013
 # shirou - しろう <shirou.faw@gmail.com>, 2013
+# Takuro Onoue <kusanaginoturugi@gmail.com>, 2020
+# shirou - しろう <shirou.faw@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2019-11-17 00:02-0800\n"
-"PO-Revision-Date: 2019-11-16 08:02+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
+"POT-Creation-Date: 2020-12-05 00:02+0100\n"
+"PO-Revision-Date: 2020-12-04 09:36+0000\n"
+"Last-Translator: Takuro Onoue <kusanaginoturugi@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -101,4 +103,4 @@ msgstr "Zhengma (Large)"
 
 #: tables/zhengma-pinyin.conf.in:2
 msgid "ZhengmaPinyin"
-msgstr ""
+msgstr "Zhengma ピンイン"
